@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://medium.com/@bhatiyabhargav.bb">
   <img align="left" alt="Bhargav Bhatiya | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/medium.svg" />
 </a>
@@ -35,6 +35,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Bhargav Bhatiya | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/github.svg" />
 </a>
 
+<br />
 <br />
 
 Hi, I'm [Bhargav Bhatiya](https://www.linkedin.com/in/bhargav-bhatiya-999142171/), a Competitive Programmer and Android Developer 🚀 from Gujarat, India, currently, Beside's programming, I enjoy eating food and traveling.
